@@ -14,7 +14,7 @@ const arcoLongo = {
 const machado = {
     nome: "Machadão",
     material: "ferro",
-    quantidade: 18
+    quantidade: 100
 }
 
 
